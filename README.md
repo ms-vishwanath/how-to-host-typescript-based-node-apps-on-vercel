@@ -118,3 +118,4 @@ Configure environment variables (e.g. `PORT`, app-specific secrets) in the Verce
 
 ISC.
 # how-to-host-typescript-based-node-apps-on-vercel
+# how-to-host-typescript-based-node-apps-on-vercel
